@@ -5,8 +5,6 @@ My name is Md Aman. I am from Bihar,Munger. i did my B.tech in Electronics and C
 # NodeJS Authentication App
 > A complete authentication app with login, logout, register, forget password, email verification(for added security), and access control. Can be used as starter for other Node.JS applications. using Node.js, Express, Passport, JWT, Mongoose, and more. 
 
- ## Host link
- https://best-authantication-service.onrender.com
 
  
 
@@ -25,12 +23,6 @@ My name is Md Aman. I am from Bihar,Munger. i did my B.tech in Electronics and C
 - Git
 - NodeJS
 - CLI
-
-## Installation
-
-##### Clone the latest Repository
-
-`git clone https://github.com/SheshmaniPatel/authantication`
 
 ##### Into the project directory
 
